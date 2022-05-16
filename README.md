@@ -1,0 +1,2 @@
+# Lead-Scoring-Case-study
+Business Objective: The company requires to build a model wherein we need to assign a lead score to each of the leads such that the customers with the higher lead score have a higher conversion chance and the customers with the lower lead score have a lower conversion chance.  Solution: Identified the factors that company needs to be targeted in order to successfull conversion of their leads.
